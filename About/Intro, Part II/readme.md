@@ -1,5 +1,7 @@
 url: http://www.loper-os.org/?p=8
 
+glossary: IA = "Intelligence Augmentation."
+
 Intro, Part II.
 Published on: Tuesday November 27 2007
 The moment came about two years ago, in the middle of a lecture on biologically-inspired algorithms (EC, ant-colony optimization, etc.) My attention had strayed so very briefly - and yet the material immediately ceased to make sense. It seemed obvious that continuing to follow the proof on the board was futile - the house of cards inside my head had tumbled down. Dark thoughts came: if my train of thought is so easily derailed, what am I doing in the thinking business? The answer "nothing else has come remotely close to making me happy" won't pay the bills. Floor, ceiling, and proofy whiteboard swirled together as I continued in this misery. It was then that I suddenly realized exactly what had led me to pick up programming when I was young, and to continue studying every aspect of computing I could lay my hands on. It was the notion that a computer could make me smarter. Not literally, of course - no more than a bulldozer is able to make me stronger. I thirsted for a machine which would let me understand and create more complex ideas than my unassisted mind is capable of, in the same way that heavy construction equipment can let mediocre biceps move mountains.
