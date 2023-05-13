@@ -1,6 +1,9 @@
 # inspire.Stanislav-Datskovskiy
-A Metaphysical Exploration of the Virtual Universe! http://www.loper-os.org/ About: http://www.loper-os.org/?p=8 Principles: http://www.loper-os.org/?p=284
+**This man is one of the most Inspiring People I've ever Come Across!!**
 
+**And A Metaphysical Exploration of the Virtual Universe!**
+
+home: http://www.loper-os.org/ About: http://www.loper-os.org/?p=8 Principles: http://www.loper-os.org/?p=284
 
 ## Bitcoin
 page: http://www.loper-os.org/?p=939
